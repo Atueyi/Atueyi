@@ -24,14 +24,17 @@ When I'm not working with data, I enjoy watching movies. I love the "aha!" momen
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Spotify Data Analysis Dashboard:** Built an interactive music analytics dashboard using Microsoft Power BI to analyze artist popularity, listening trends, and track performance.
+
+- **Freight Forwarding Business Dashboard:** Designed a logistics analytics report to track shipment volumes, freight costs, and operational performance using Microsoft Power BI.
+
+- **Portfolio Development:** Building and documenting data analytics projects and sharing them on my GitHub portfolio.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Data visualization and dashboard design using Microsoft Power BI.
+- Graphic design and visual content creation using Canva.
+- Video editing and content creation using CapCut.
 
 ## 🛠️ Technical Skillset
 
