@@ -24,11 +24,9 @@ When I'm not working with data, I enjoy watching movies. I love the "aha!" momen
       
 ## 🔭 What I'm Currently Working On 
 
-- **Spotify Data Analysis Dashboard:** Built an interactive music analytics dashboard using Microsoft Power BI to analyze artist popularity, listening trends, and track performance.
+- ## 🔭 What I'm Currently Working On
 
-- **Freight Forwarding Business Dashboard:** Designed a logistics analytics report to track shipment volumes, freight costs, and operational performance using Microsoft Power BI.
-
-- **Portfolio Development:** Building and documenting data analytics projects and sharing them on my GitHub portfolio.
+- **Bioconductor Volunteer Work:** Contributing to study curation, data reviews, and analytical research workflows within the Bioconductor ecosystem.
 
 ## 🌱 Currently Learning 
 
