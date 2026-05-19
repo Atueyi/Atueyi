@@ -28,9 +28,9 @@ When I'm not working with data, I enjoy watching movies. I love the "aha!" momen
 
 ## 🌱 Currently Learning 
 
-- Data visualization and dashboard design using Microsoft Power BI.
-- Graphic design and visual content creation using Canva.
-- Video editing and content creation using CapCut.
+- Bioinformatics workflows and analytical research using Bioconductor.
+- Advanced SQL querying, analytical reporting, and business intelligence techniques.
+- Data storytelling, portfolio development, and technical documentation for analytics projects.
 
 ## 🛠️ Technical Skillset
 
