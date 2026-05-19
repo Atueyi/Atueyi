@@ -24,8 +24,6 @@ When I'm not working with data, I enjoy watching movies. I love the "aha!" momen
       
 ## 🔭 What I'm Currently Working On 
 
-- ## 🔭 What I'm Currently Working On
-
 - **Bioconductor Volunteer Work:** Contributing to study curation, data reviews, and analytical research workflows within the Bioconductor ecosystem.
 
 ## 🌱 Currently Learning 
